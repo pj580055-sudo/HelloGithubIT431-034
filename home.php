@@ -24,6 +24,7 @@
 				<li><a href="home.php"> หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
 				<li><a href="guest.php">สมุดเยี่ยม</li>
+				<li><a href="sample_room.php">ตัวอย่างห้อง</li>
 				<li><a href="contact.php">ติดต่อสอบถาม</li>
 				</ul><p>
 				<?php include "login_form.php";?>
