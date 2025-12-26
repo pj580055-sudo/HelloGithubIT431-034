@@ -21,10 +21,10 @@
 					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถาม</a>	
 			</td>
 			<td width="190" bgcolor="#FFFF66"><ul>
-				<li><a href="home.php"> หน้าแรกที่ใจจริง</li>
+				<li><a href="home.php"> หน้าแรก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
-				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a href="contact.php">ติดต่ออออออออออออหาใครรึ</li>
+				<li><a href="guest.php">สมุดเยี่ยม</li>
+				<li><a href="contact.php">ติดต่อสอบถาม</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
